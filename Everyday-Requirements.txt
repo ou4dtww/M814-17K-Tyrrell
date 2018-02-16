@@ -16,3 +16,15 @@ Description: If the desired holiday dates are not available on the viewed proper
 Type: 9a – Functional Requirement
 Rationale: So that the potential customer can still find a suitable Holiday Destination (and be retained as business) even though his ideal location may not be available during the times chosen.
 Originator: Ayisha Jayakodi - Agent
+
+REQ-ID: M814-17K-DW-DavidWong-A
+Description: The system shall provide the agent the type of a particular property
+Type: Functional
+Rationale: holidaymaker wants to know if a property is the type they want
+Originator: Ayisha Jayakodi
+
+REQ-ID: M814-17K-DW-DavidWong-A
+Description: The system shall determine if a property rental is affordable
+Type: Functional
+Rationale: Holidaymaker wants to know they can afford the rental of a given property
+Originator: Ayisha Jayakodi
